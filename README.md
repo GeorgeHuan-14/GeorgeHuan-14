@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning OI(Olympiad in Informatics).
 - 💞️ I’m looking to collaborate on ...?
 - 📫 How to reach me https://codeforces.com/profile/huanqizhen
-- 😄 Pronouns: ...?(I'm actually a Chinese)
+- 😄 Pronouns: Chinese man
 - ⚡ Fun fact: ...?
 
 <!---
